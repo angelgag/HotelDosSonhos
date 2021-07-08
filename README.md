@@ -10,6 +10,9 @@ Recomendamos que inicie pelo arquivo "index.html", pois ele é o arquivo relacio
 
 <h1 align="center"> Técnologias Utilizadas
 <p>
+
 [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+
 <p>
+
 [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
