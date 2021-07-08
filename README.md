@@ -11,5 +11,6 @@ Recomendamos que inicie pelo arquivo "index.html", pois ele é o arquivo relacio
 <h1 align="center"> Técnologias Utilizadas 
 
 <li>
-<ul><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" align="left"> HTML
+<ul><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" align="left"> HTML <\ul>
 <ul><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" align="left"> CSS
+<\ul>
