@@ -8,9 +8,7 @@
 <p> Na verdade, é bem simpes, para rodar a aplicação você pode abrir qualquer um dos arquivos ".html", ele irá mostrar a tela referente ao que foi aberto e, por lá, é possível fazer tranquilamente a navegação entre as telas. 
 Recomendamos que inicie pelo arquivo "index.html", pois ele é o arquivo relacionado a tela inicial da aplicação <\p>
 
-<h1 align="center"> Técnologias Utilizadas 
+<h1 align="center"> Técnologias Utilizadas
 
-<li>
-<ul><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" align="left"> HTML <\ul>
-<ul><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" align="left"> CSS
-<\ul>
+[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
