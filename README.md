@@ -1,7 +1,7 @@
 <h1 align="center"> Hotel Dos Sonhos 
 <h2 align="center"> Aqui foi criado um site de um hotel, foi um projeto de conclusão de um mine curso onde ensinavam o básico de criação de sites 
 
-<h4 align="center"> Projeto finaizado 
+<h4 align="center"> Projeto finalizado
 
 <h1 align="center"> Como Rodar a Aplicação 
 <p>
